@@ -1,6 +1,5 @@
 # 🧙 I'm Willian Silva
 
-## Hello! 👋 Welcome to my profile
 Front-end Developer :desert_island:Living in Brasília :brazil:
 
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />

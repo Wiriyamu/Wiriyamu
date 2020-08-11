@@ -2,7 +2,7 @@
 
 Front-end Developer :desert_island:Living in Brasília :brazil:
 
-<img width="100%" align="center" alt="Github" src="https://miro.medium.com/max/1920/1*zh_G1b6oohDmuZ_Xe7ulBA.jpeg" />
+<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Wiriyamu)](https://github.com/Wiriyamu)
@@ -21,6 +21,17 @@ const Willian = {
  challenge: "Seeking to be a complete Front End Developer."
 }
 ```
+### 💚 Love
+![](https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=vue)
+
+### 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiriyamu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### ⭐ GitHub Stars 
+![Willian's github stats](https://github-readme-stats.vercel.app/api?username=Wiriyamu&show_icons=true&theme=gradient)
+
+
 
 🚀 <em><b>Towards the top!</b> :)</em>
 

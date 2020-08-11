@@ -13,10 +13,10 @@ Front-end Developer :desert_island:Living in Brasília :brazil:
 ### 😃 A little more about me...  
 
 ```javascript
-const Willian = {
+const willian = {
   pronouns: "He" | "him",
-  code: [HTML, CSS, Javascript, Typescript, Node, GraphQL],
-  tools: [Vue, Vuex, Vuesax, Nuxt, Tailwind, Jest, Cypress],
+  code: ["HTML", "CSS", "Javascript", "Typescript", "Node", "GraphQL"],
+  tools: ["Vue", "Vuex", "Vuesax", "Nuxt", "Tailwind", "Jest", "Cypress"],
   patterns: ["DRY", "KISS", "YAGNI"],
  challenge: "Seeking to be a complete Front End Developer."
 }

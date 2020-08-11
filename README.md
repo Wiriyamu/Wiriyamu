@@ -24,15 +24,6 @@ const willian = {
 ### 💚 Love
 ![](https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=vue)
 
-### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiriyamu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### ⭐ GitHub Stars 
-![Willian's github stats](https://github-readme-stats.vercel.app/api?username=Wiriyamu&show_icons=true&theme=gradient)
-
-
-
 🚀 <em><b>Towards the top!</b> :)</em>
 
 > 🗔  [williansilvadev](https://williansilvadev.now.sh/)
